@@ -15,9 +15,9 @@
 .Karena JWT tidak ada mekanisme  validasi
 
 **Solusi:**  
-...
+.Hapus Refresh token dari server
+- masukkan acces token ke dalam daftar blacklist
 
----
 
 ## Bagian B – Simulasi Serangan dan Solusi
 
