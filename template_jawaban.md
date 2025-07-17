@@ -38,13 +38,15 @@
 - Avaibility , Memastikan bahwa informasi dan sistem dapat diakses oleh pengguna yang berwenang saat dibutuhkan. Ketersediaan memastikan bahwa sistem dan data dapat digunakan saat diperlukan. Contoh: backup.
 
 ### 2. UU ITE yang relevan  
-Pasal 30 akses ilegal ke sistem elektronik
-pasal  32 perusakan, pengubahan, penghapusan data
+-Pasal 30 akses ilegal ke sistem elektronik
+-pasal  32 perusakan, pengubahan, penghapusan data
 
 ### 3. Pandangan Al-Qur'an  
 - Surah Al-Baqarah: 205  
 ayat ini menggambarkan sifat orang yang tampakbaik di depam umum,tetapi saat tidak di awasi justru berbuat kerusakan terhadaptatanan kehidupan,termasuk sistem sosial, ekonomi, dan lingkungan
 
 ### 4. Etika Cyber dan Kejujuran  
-...
-
+-Tidak Menyalahgunakan akses
+- Transparansi dalam insiden
+- Menjaga kerahasiaan data
+-menginformasikan publik secara transparan
