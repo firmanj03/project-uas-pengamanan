@@ -12,7 +12,7 @@
 
 ### Bug 1: Token tetap aktif setelah logout
 **Penjelasan:**  
-...
+.Karena JWT tidak ada mekanisme  validasi
 
 **Solusi:**  
 ...
