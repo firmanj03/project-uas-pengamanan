@@ -1,10 +1,10 @@
 # UAS Keamanan Komputer
 
 ## Identitas
-- Nama: Shasica Feby Juliananta 
-- NIM: 221080200015
+- Nama: Firman Febrian Jaya Rustan
+- NIM: 221080200064
 - Kelas: Pengamanan Sistem Komputer 6/B4
-- Repo GitHub: [link]
+- Repo GitHub: [https://github.com/firmanj03/project-uas-pengamanan/edit/main/template_jawaban.md]
 
 ---
 
